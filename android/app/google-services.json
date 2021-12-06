@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003441925950",
+    "project_id": "bacayonline-46755",
+    "storage_bucket": "bacayonline-46755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003441925950:android:9301a4ff929d24af53466f",
+        "android_client_info": {
+          "package_name": "com.bacayonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003441925950-19oq8f344e8ih1dganrk1oe7jeidb0ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bacayonline",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1003441925950-sdaurk1h7p4pceu7qovnmkg2ht89me9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV5MzFOGkECiVhxjLNXDis9oyR_BxMgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003441925950-sdaurk1h7p4pceu7qovnmkg2ht89me9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
