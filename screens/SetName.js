@@ -19,7 +19,7 @@ export default class SetName extends Component {
     onPressConfirm = () => {
         let nameUser = this.state.textName.trim();
         if (nameUser == 'Your Name') {
-            Alert.alert("Bạn tên 'Your Name' ư. Tôi không tin. Bấm vào 'Your Name' để nhập tên của bạn!");
+            Alert.alert("Bấm vào 'Your Name' để nhập tên của bạn!");
             return;
         }
         if (nameUser == '') {

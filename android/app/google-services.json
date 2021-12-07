@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1003441925950",
+    "firebase_url": "https://bacayonline-46755-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "bacayonline-46755",
     "storage_bucket": "bacayonline-46755.appspot.com"
   },
@@ -14,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "1003441925950-19oq8f344e8ih1dganrk1oe7jeidb0ch.apps.googleusercontent.com",
+          "client_id": "1003441925950-rmrelm3dkcvclmjptbk9vl3nmjt8bguk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.bacayonline",
-            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+            "certificate_hash": "5450564c66132a04fb0e10ca6b73692af1901209"
           }
         },
         {
